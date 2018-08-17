@@ -1,5 +1,5 @@
-// Canvas Asteroids
-//
+// Canvas Asteroids upgraded version
+// trying some modification using git
 // Copyright (c) 2010 Doug McInnes
 //
 
