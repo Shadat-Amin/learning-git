@@ -1,6 +1,6 @@
 // Canvas Asteroids
 //
-// Copyright (c) 2018 Doug McInnes
+// Copyright (c) 2010 Doug McInnes
 //
 
 KEY_CODES = {
